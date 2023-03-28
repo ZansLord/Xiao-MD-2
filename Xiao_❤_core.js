@@ -1637,7 +1637,7 @@ m.reply(`Chat owner bro, please type .owner`)
 break
   case 'addprem':
 if (!isCreator) throw mess.owner
-if (!q) return m.reply(`Enter the sample number\n\nExample: \n⊳≫${prefix}${command} 918130784851`)
+if (!q) return m.reply(`Enter the sample number\n\nExample: \n⊳≫${prefix}${command} 6285869074622`)
 if(isNaN(q)) return await m.reply('must be a number')
   if (q.includes(`+`)) return m.reply('Do not use + direct number 9169****')
 prmi = args.join(" ")
@@ -1648,7 +1648,7 @@ break
 case 'delprem':
  case 'dellprem':
 if (!isCreator) throw mess.owner
-  if (!q) return m.reply(`Enter the Number\n\nExample: \n⊳≫${prefix}${command} 918130784851`)
+  if (!q) return m.reply(`Enter the Number\n\nExample: \n⊳≫${prefix}${command} 6285869074622`)
   if(isNaN(q)) return await m.reply('must be a number')
   if (q.includes(`+`)) return m.reply('Do not use + direct number 9169****')
   prmin = `${q}@s.whatsapp.net`
@@ -3419,7 +3419,7 @@ View list of Messages With⊳≫${prefix}listmsg`)
             }
 	    break
 case 'developer': case 'dev': {
-reply(`• 𝓧𝓘𝓐𝓞  𝓑𝓸𝓽 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻•\n\nPm: wa.me/918130784851`)
+reply(`• 𝓧𝓘𝓐𝓞  𝓑𝓸𝓽 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻•\n\nPm: wa.me/6285869074622`)
 }
             break
 case 'owner': case 'creator': case 'moderator': case 'mod': {
@@ -6187,7 +6187,7 @@ const buttonMessage = {
 ╠ ⊳≫${prefix}𝚂𝚌𝚒_𝙵𝚒
 ╠ ⊳≫${prefix}𝙰𝚗𝚌𝚒𝚎𝚗𝚝
 ╠ ⊳≫${prefix}𝙵𝚊𝚋𝚛𝚒𝚌
-╠ ⊳≫${prefix}𝙷𝚘𝚘𝚛𝚛𝚘𝚛
+╠ ⊳≫${prefix}𝙷𝚘??𝚛𝚛𝚘𝚛
 ╠ ⊳≫${prefix}𝚆𝚑𝚒𝚝𝚎𝚋𝚎𝚊𝚛
 ╠ ⊳≫${prefix}𝙹𝚞𝚒𝚌𝚎
 ╠ ⊳≫${prefix}𝙱𝚊𝚝𝚖𝚊𝚗
