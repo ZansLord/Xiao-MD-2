@@ -11,4 +11,4 @@ COPY . /XIAO
 
 RUN yarn
 
-CMD ["yarn", "start"]
+CMD ["npm", "start"]
