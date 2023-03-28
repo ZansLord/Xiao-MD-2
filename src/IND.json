@@ -1,1 +1,19 @@
-
+{
+    "Xiao-MD-2": true,
+    "LANGUAGE": "Indonesia",
+    "LANGCODE": "IND",
+    "AUTHOR": "ZANSENPAI",
+    "modules": {
+    "success": "Proses Selesai ✅️",
+    "admin": "Hai User Tersayang,\nKamu Bukan Admin, Jadi Kamu Tidak Bisa Memakai Perintah Ini.",
+    "botAdmin": "Rias Bukan Admin, Jadi Aku Tidak Bisa Memproses Perintah Ini.",
+    "premime": "Premium Special Features If You Want to Register Type Rent",
+    "owner": "Perintah Ini Khusus Owner Ku.",
+    "group": "Huh... I can't use this command in a private chat!!",
+    "private": "Uff... I can't take this action in a private chat...",
+    "bot": "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
+    "wait": "*Proses Di mulai....*",
+    "linkm": "Aku Butuh Link Untuk Memproses nya...",
+    "error": "Proses Berhenti!!...Aku Mendapat Error",
+    "endLimit": "Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours",
+}
