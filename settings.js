@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918130784851'] //ur owner number
-global.ownername = "𝙈𝘼𝙎𝙏𝙀𝙍☤​᭄𝙉𝙀𝙓𝙐𝙎" //ur owner name
-global.ytname = "YT: NEXUSMODS" //ur yt chanel name
-global.socialm = "GitHub: NEXUSAT12" //ur github or insta name
-global.location = "India, Ghaziabad, Rajnagar" //ur location
+global.owner = ['6285869074622'] //ur owner number
+global.ownername = "𝙕𝘼𝙉𝙎☤​᭄𝙎𝙀𝙉𝙋𝘼𝙄" //ur owner name
+global.ytname = "Insta: @abdulmalik_4342" //ur yt chanel name
+global.socialm = "GitHub: ZansLord" //ur github or insta name
+global.location = "Indonesia, West Java, Bandung" //ur location
 
 //bot bomdy 
-global.ownernomer = "918130784851" //ur number
-global.premium = ['918130784851'] //ur premium number
-global.botname = '𓆩⍣⃝🇽‌𝐢𝐚𝐨-𝐁𝐎𝐓⃢𓆪' //ur bot name
-global.linkz = "https://chat.whatsapp.com/KdCiUuENgOFEYJMHV3jZNj" //your theme url which will be displayed on whatsapp
-global.websitex = "https://linktr.ee/Nexus_21" //ur website to be displayed
-global.botscript = 'https://github.com/NEXUSAT12/Xiao-MD-2' //script link
+global.ownernomer = "6285869074622" //ur number
+global.premium = ['6285869074622'] //ur premium number
+global.botname = '𓆩⍣⃝🇷 𝐢𝐚𝐬-𝐁𝐎𝐓⃢𓆪' //ur bot name
+global.linkz = "https://chat.whatsapp.com/K1GPpxZKEVb7SMmRMSoFfS" //your theme url which will be displayed on whatsapp
+global.websitex = "https://lynk.id/ZansLord" //ur website to be displayed
+global.botscript = 'https://github.com/ZansLord/Xiao-MD-2' //script link
 global.themeemoji = "🌹" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "XBOT\n\n\nA whatsapp bot developed by\n☤𝙣𝙚𝙭𝙪𝙨☤\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +91918130784851" //ur sticker watermark author
-global.wm = "☤꙰𝙈𝘼𝙎𝙏𝙀𝙍꥟𝙉𝙀𝙓𝙐𝙎☤꙰." //ur watermark
+global.author = "𝑹𝒊𝒂𝒔𝗕𝗢𝗧\n\n\nA whatsapp bot developed by\n࿚𝗭𝗮𝗻𝘀☤𝗦𝗲𝗻𝗽𝗮𝗶࿙\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +62895333501279" //ur sticker watermark author
+global.wm = "☤꙰𝙕𝘼𝙉𝙎꥟𝙎𝙀𝙉𝙋𝘼𝙄☤꙰." //ur watermark
 // Other
 global.sessionName = 'session'
 global.prefa = ['#']
